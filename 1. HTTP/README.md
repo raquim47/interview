@@ -1,18 +1,21 @@
 # HTTP
 
 ## HTTP란?
+
 <details>
 <summary>자세히 보기</summary>
 HTTP는 HyperText Transfer Protocol의 약자로, 클라이언트와 서버 간 웹 상에서 데이터를 주고받기 위한 애플리케이션 프로토콜입니다. 주로 웹 페이지, 이미지, 동영상 등의 리소스를 교환하는데 사용됩니다.
 </details>
 
 ## HTTP는 stateless하다는 것의 의미와 대안을 설명하세요
+
 <details>
 <summary>자세히 보기</summary>
  서버가 이전 요청에 대한 정보를 저장하지 않기 때문에 각각의 요청이 독립적이라는 의미입니다. 이러한 특성 덕분에 서버의 메모리 사용량이 줄어들고 확장성이 증가합니다. 그러나 상태 정보가 필요한 경우 추가 구현이 필요하며, 이때 쿠키와 세션을 이용하여 클라이언트의 상태 정보를 저장하고 추적할
 </details>
 
 ## HTTP 매서드에 대해 설명하세요
+
 <details>
 <summary>자세히 보기</summary>
  HTTP 매서드는 클라이언트가 서버에 요청을 보낼 때 사용하는 동작 방식입니다.
@@ -24,18 +27,21 @@ HTTP는 HyperText Transfer Protocol의 약자로, 클라이언트와 서버 간 
 </details>
 
 ## HTTP/1.0, 1.1, 2.0에 대해 설명하세요
+
 <details>
 <summary>자세히 보기</summary>
  HTTP/1.0은 기본 요청-응답 메커니즘을 제공하는 첫 버전입니다. HTTP/1.1은 지속적인 연결과 파이프라이닝 기능이 추가되어 성능이 향상되었고, HTTP/2.0은 다중화와 서버 푸시를 도입하여 웹 성능을 더욱 개선했습니다.
 </details>
 
 ## HTTP와 HTTPS에 대해 설명하세요
+
 <details>
 <summary>자세히 보기</summary>
   HTTP는 도청이 가능하며(TCP/IP) 통신 상대를 확인하지 않아 신뢰성이 떨어집니다. 그래서 등장한 HTTPS는 보안 프로토콜인 SSL을 이용해 데이터를 암호화하고 보안성을 보장합니다. 추가로 검색엔진 최적화에도 도움을 줍니다.
 </details>
 
 ## CORS와 CORS문제의 해결 방법을 설명하세요
+
 <details>
 <summary>자세히 보기</summary>
   CORS(Cross-Origin Resource Sharing)
@@ -43,8 +49,8 @@ HTTP는 HyperText Transfer Protocol의 약자로, 클라이언트와 서버 간 
    해결방법으로는 서버 측에서 적절한 CORS 헤더를 설정하고, 클라이언트 측에서는 서버의 CORS 정책을 따르도록 구현합니다.
 </details>
 
+## OSI 7 계층이란 뭔가요?
 
-##  OSI 7 계층이란 뭔가요?
 <summary>자세히 보기</summary>
 <details>
 물데네전세표응
