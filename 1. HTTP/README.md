@@ -1,4 +1,4 @@
-# Network
+# HTTP
 
 ## HTTP란?
 <details>
