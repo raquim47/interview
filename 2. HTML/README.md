@@ -50,15 +50,6 @@ ul 태그: 정렬되지 않은 목록
 dl 태그: 정의 목록, dt태그는 용어, dd태그는 해당 용어의 정의를 표시,
 </details>
 
-## ol, ul, dl
-
-<details>
-<summary>자세히 보기</summary>
-ol 태그: 정렬된 목록 (순서 중요)
-ul 태그: 정렬되지 않은 목록
-dl 태그: 정의 목록, dt태그는 용어, dd태그는 해당 용어의 정의를 표시,
-</details>
-
 ## srcset
 
 <details>
