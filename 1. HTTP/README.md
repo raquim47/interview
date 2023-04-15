@@ -4,7 +4,7 @@
 
 <details>
 <summary>자세히 보기</summary>
-HTTP는 HyperText Transfer Protocol의 약자로, 클라이언트와 서버 간 웹 상에서 데이터를 주고받기 위한 애플리케이션 프로토콜입니다. 주로 웹 페이지, 이미지, 동영상 등의 리소스를 교환하는데 사용됩니다.
+HTTP는 HyperText Transfer Protocol의 약자로, 클라이언트와 서버 간 웹 상에서 데이터를 주고받기 위한 프로토콜입니다. 주로 웹 페이지, 이미지, 동영상 등의 리소스를 교환하는데 사용됩니다.
 </details>
 
 ## HTTP는 stateless하다는 것의 의미와 대안을 설명하세요
@@ -53,7 +53,7 @@ HTTP는 HyperText Transfer Protocol의 약자로, 클라이언트와 서버 간 
 
 <details>
 <summary>자세히 보기</summary>
-  물데네전세표응
+  물데네전세표응<br>
 OSI 7 계층은 네트워크 통신을 7개의 계층으로 나누어 설명하는 모델입니다.
 물리계층, 데이터 링크 계층, 네트워크 계층, 전송 계층, 세션 계층, 표현 계층, 응용 계층으로 나누어져 있고
 각 계층을 서로 다른 기능을 담당하여 데이터를 전달합니다.
