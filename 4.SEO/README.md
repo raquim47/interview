@@ -1,7 +1,6 @@
 # 웹접근성
 
-## 
-SEO란?
+## SEO란?
 
 <details>
 <summary>자세히 보기</summary>
