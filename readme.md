@@ -3,5 +3,5 @@
 ### 1. [HTTP](/1.%20HTTP/README.md)
 ### 2. [HTML](/2.%20HTML/README.md)
 ### 3. [웹접근성](/3.%20웹접근성/README.md)
-### 4. [SEO](/3.%20SEO/README.md)
-### 5. [CSS](/3.%20CSS/README.md)
+### 4. [SEO](/4.%20SEO/README.md)
+### 5. [CSS](/5.%20CSS/README.md)
